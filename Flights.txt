@@ -1,0 +1,140 @@
+A123 Delta NewYork LosAngeles 5 2 2025 10:00 360 4000 250.0 4 3
+Manifesto:
+Alice Johnson
+Bob Smith
+Charlie Brown
+Waitlist:
+-----
+B456 BritishAirways London Paris 10 3 2025 14:30 90 350 100.0 180 1
+Manifesto:
+David White
+Waitlist:
+-----
+C789 JapanAirlines Tokyo Seoul 15 4 2025 6:45 120 1200 180.0 300 5
+Manifesto:
+Emma Davis
+Frank Miller
+Grace Wilson
+Henry Moore
+Isla Taylor
+Waitlist:
+-----
+D234 Aeromexico MexicoCity LosAngeles 20 5 2025 12:15 240 2500 200.0 180 3
+Manifesto:
+Juan Martinez
+Maria Gonzalez
+Carlos Ramirez
+Waitlist:
+-----
+E567 UnitedAirlines Chicago Houston 8 6 2025 9:30 180 1500 180.0 160 3
+Manifesto:
+Robert Anderson
+Susan Clark
+Tom Harris
+Waitlist:
+-----
+F890 Lufthansa Berlin Frankfurt 25 7 2025 11:45 70 500 120.0 200 3
+Manifesto:
+Anna Schmidt
+Markus Lehmann
+Lars Becker
+Waitlist:
+-----
+G123 Emirates Dubai London 14 8 2025 16:20 420 5500 400.0 350 3
+Manifesto:
+Ahmed Khan
+Fatima Ali
+Omar Hussain
+Waitlist:
+-----
+H456 AirFrance Paris MexicoCity 30 9 2025 13:00 720 9200 600.0 300 3
+Manifesto:
+Pierre Laurent
+Sophie Dubois
+Luis Fernandez
+Waitlist:
+-----
+I789 KLM Amsterdam NewYork 5 10 2025 8:10 450 5800 380.0 250 3
+Manifesto:
+Johan Bakker
+Maria Jansen
+Anouk Visser
+Waitlist:
+-----
+J321 QatarAirways Doha Sydney 15 11 2025 22:50 960 12000 900.0 400 3
+Manifesto:
+Ali Rahman
+Hassan Malik
+Noor Ahmed
+Waitlist:
+-----
+K654 Southwest Dallas Denver 18 12 2025 7:45 120 1000 130.0 175 3
+Manifesto:
+Kevin Parker
+Laura Evans
+Matt Rogers
+Waitlist:
+-----
+L987 Volaris Guadalajara Cancun 22 1 2026 17:30 180 2100 220.0 180 3
+Manifesto:
+Ernesto Chavez
+Gabriela Lopez
+Hugo Vargas
+Waitlist:
+-----
+M111 Iberia Madrid MexicoCity 10 2 2026 15:45 660 9000 550.0 250 3
+Manifesto:
+Fernando Ruiz
+Lucia Morales
+Raul Ortega
+Waitlist:
+-----
+N222 AlaskaAirlines Seattle SanFrancisco 5 3 2026 9:20 90 1300 140.0 150 3
+Manifesto:
+Chris Walker
+Emma Scott
+Tyler Brooks
+Waitlist:
+-----
+O333 AmericanAirlines Miami LosAngeles 18 4 2026 6:30 300 3500 280.0 190 3
+Manifesto:
+Jessica Hall
+Brandon Cooper
+Michelle Foster
+Waitlist:
+-----
+P444 JetBlue Boston Orlando 27 5 2026 12:00 150 1700 160.0 200 3
+Manifesto:
+Patrick Murphy
+Ellen Bell
+Steve Richardson
+Waitlist:
+-----
+Q555 CopaAirlines PanamaCity MexicoCity 8 6 2026 14:10 240 2400 210.0 220 3
+Manifesto:
+Ricardo Torres
+Alejandra Soto
+Daniel Navarro
+Waitlist:
+-----
+R666 TurkishAirlines Istanbul BuenosAires 12 7 2026 21:40 900 13000 950.0 350 3
+Manifesto:
+Mehmet Yildiz
+Selin Kaya
+Hasan Demir
+Waitlist:
+-----
+S777 LATAM SaoPaulo MexicoCity 30 8 2026 19:15 480 7000 450.0 280 3
+Manifesto:
+Thiago Oliveira
+Camila Souza
+Diego Mendes
+Waitlist:
+-----
+T888 SingaporeAirlines Singapore Tokyo 15 9 2026 5:55 420 5400 400.0 330 3
+Manifesto:
+Wei Chen
+Jun Tan
+Hana Sato
+Waitlist:
+-----
